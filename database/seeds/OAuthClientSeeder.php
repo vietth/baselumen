@@ -1,6 +1,4 @@
 <?php
-namespace database\seeds;
-
 use Illuminate\Database\Seeder;
 
 class OAuthClientSeeder extends Seeder {
